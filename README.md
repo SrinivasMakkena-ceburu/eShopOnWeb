@@ -85,7 +85,7 @@ The application uses the following `appsettings.json` (located at `src/Web/appse
 
 7. **Navigate to the Publish Folder**
    ```powershell
-   cd E:\Demo\Dotnet\eShopOnWeb\src\Web\publish
+   cd .\publish
    ```
 
 8. **Create the Windows Service**
